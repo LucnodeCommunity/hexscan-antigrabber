@@ -8,7 +8,7 @@ HexScan es un AntiGrabber gratuito de código compilado que detecta y elimina sc
 - Interfaz en actualizaciones.
 - Código limpio y documentado.
 
-## 📦 Instalación
+## 📦 Nota:
 
-```bash
-pip install -r requirements.txt
+Yo se que ustedes diran, no yo no descargare eso ni loco, hay si me van a grabear,
+tranquilo no es obligado descargarlo simplemente estamos para ayudar.
