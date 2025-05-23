@@ -12,3 +12,5 @@ HexScan es un AntiGrabber gratuito de código compilado que detecta y elimina sc
 
 Yo se que ustedes diran, no yo no descargare eso ni loco, hay si me van a grabear,
 tranquilo no es obligado descargarlo simplemente estamos para ayudar.
+
+Unete al discord para obtener la contraseña: https://discord.gg/cMpxebRvq9
