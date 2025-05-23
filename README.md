@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/bcf42d2c-4c8b-4955-8447-d87cfa586bbf)
-
 # 🛡️ HexScan AntiGrabber v1.0
 
 HexScan es un AntiGrabber gratuito de código compilado que detecta y elimina scripts maliciosos como token grabbers, nuke bots y backdoors en directorios de Discord.
